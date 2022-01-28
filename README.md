@@ -2,4 +2,4 @@
 
 sudo -i
 
-wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/roott/main/senharoot.sh)
+wget -y; bash <(wget -qO- https://raw.githubusercontent.com/CoutySSH/root/main/senharoot.sh)
